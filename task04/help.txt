@@ -1,0 +1,7 @@
+List of available commands:
+add - add contact, example of input: add [name] [phone]
+change - change existing contact, example of input: change [name] [phone]
+phone - return phone number by name, example of input: phone [name]
+all - show all added contacts, example of input: all
+hello - ask question (for now), example of input: hello
+close / exit - finish dialog with chat bot
